@@ -131,8 +131,7 @@ const allPics = [
 
 ]
 
-var gg = 0;
-console.log(gg)
+
 function PictureLayout() {
 
     return (
