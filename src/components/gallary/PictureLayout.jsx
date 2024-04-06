@@ -1,27 +1,27 @@
 //import React from 'react';
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
-import Pic1 from '../../../public/images/Kitchen.jpg'
-import Pic2 from '../../../public/images/Laundry.jpg'
-import Pic3 from '../../../public/images/A1.jpg';
-import Pic4 from '../../../public/images/A2.jpg';
-import Pic5 from '../../../public/images/B1.jpg';
-import Pic6 from '../../../public/images/B2.jpg';
-import Pic7 from '../../../public/images/B3.jpg';
-import Pic8 from '../../../public/images/B4.jpg';
-import Pic9 from '../../../public/images/B5.jpg';
-import Pic10 from '../../../public/images/B6.jpg';
-import Pic11 from '../../../public/images/B7.jpg';
-import Pic12 from '../../../public/images/C1.jpg';
-import Pic13 from '../../../public/images/C2.jpg';
-import Pic14 from '../../../public/images/C3.jpg';
-import Pic15 from '../../../public/images/C4.jpg';
-import Pic16 from '../../../public/images/D1.jpg';
-import Pic17 from '../../../public/images/D2.jpg';
-import Pic18 from '../../../public/images/D3.jpg';
-import Pic19 from '../../../public/images/D4.jpg';
-import Pic20 from '../../../public/images/E1.jpg';
-import Pic21 from '../../../public/images/E2.jpg';
+import Pic1 from '../../..src/../assets/images/A1.jpg' //p0\kva\src\assets\images\A1.jpg
+import Pic2 from '../../..src/../assets/images/A2.jpg'
+import Pic3 from '../../..src/../assets/images/B1.jpg';
+import Pic4 from '../../..src/../assets/images/A2.jpg';
+import Pic5 from '../../..src/../assets/images/B1.jpg';
+import Pic6 from '../../..src/../assets/images/B2.jpg';
+import Pic7 from '../../..src/../assets/images/B3.jpg';
+import Pic8 from '../../..src/../assets/images/B4.jpg';
+import Pic9 from '../../..src/../assets/images/B5.jpg';
+import Pic10 from '../../..src/../assets/images/B6.jpg';
+import Pic11 from '../../..src/../assets/images/B7.jpg';
+import Pic12 from '../../..src/../assets/images/C1.jpg';
+import Pic13 from '../../..src/../assets/images/C2.jpg';
+import Pic14 from '../../..src/../assets/images/C3.jpg';
+import Pic15 from '../../..src/../assets/images/C4.jpg';
+import Pic16 from '../../..src/../assets/images/D1.jpg';
+import Pic17 from '../../..src/../assets/images/D2.jpg';
+import Pic18 from '../../..src/../assets/images/D3.jpg';
+import Pic19 from '../../..src/../assets/images/D4.jpg';
+import Pic20 from '../../..src/../assets/images/E1.jpg';
+import Pic21 from '../../..src/../assets/images/E2.jpg';
 import Box from '@mui/material/Box';
 
 
@@ -130,6 +130,8 @@ const allPics = [
     },
 
 ]
+
+
 
 
 function PictureLayout() {
